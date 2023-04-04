@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image:url(vila\ do\ chaves.avif);
+}
+
+div {
+    background-color: black;
+    border: 1px solid orangered;
+    width: 420px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 2rem;
+
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    padding-top: 1.8rem;
+    text-align: justify;
+    width: 90%;
+    font-size: 18px;
+    margin-left: 18px;
+    color:white;
+    
+}
+
+h1 , h2 {
+    padding-top: 1rem;
+    color:green;
+    text-shadow: 1px 1px 1px orangered;
+}
+
+nav {
+    background-color: #111111;
+    width: 410px;
+    height: 40px;
+    margin-left: 70%;
+    margin-top: 0.3rem;
+
+}
+
+nav ul li {
+    display: inline;
+}
+
+li {
+    padding: 10px 15px ;
+}
+
+ul {
+    padding-top: 0.7rem;
+}
+
+a {
+    text-decoration: none;
+    color: orangered;
+    font-weight: bold;
+
+}
